@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "105537741420",
+    "firebase_url": "https://passwordmanager-3debb.firebaseio.com",
+    "project_id": "passwordmanager-3debb",
+    "storage_bucket": "passwordmanager-3debb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:105537741420:android:33fbee545a0be701",
+        "android_client_info": {
+          "package_name": "com.example.tomas.paswordmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "105537741420-raiv4ouk2am96d4mbkc4aa8jt36hoel7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tomas.paswordmanager",
+            "certificate_hash": "150ec5dea2d3d9cfef352b76808f5b69762caafc"
+          }
+        },
+        {
+          "client_id": "105537741420-o5n6e574j96oo8p7aadcigth8d2eor1p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOHmf_CDgnruEdfhPMYjDQ3h8tLha629s"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "105537741420-o5n6e574j96oo8p7aadcigth8d2eor1p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
